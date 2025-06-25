@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://FaezeM.github.io/Semeval_2018_ec/manifests/manifest6.json",
+  "@type" : "sc:Manifest",
+  "label" : "love, trust",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://6d88740f-0a7f-4646-afde-c25e158a80bb",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://08f0cc36-5958-4a36-8091-68555659e7ec",
+      "@type" : "sc:Canvas",
+      "label" : "six",
+      "height" : 344,
+      "width" : 1190,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d9ff461a-7cd1-49f1-b604-d22c8dae959e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://faezem.github.io/Semeval_2018_ec/images/six/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://faezem.github.io/Semeval_2018_ec/images/six",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 344,
+          "width" : 1190
+        },
+        "on" : "http://08f0cc36-5958-4a36-8091-68555659e7ec"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
