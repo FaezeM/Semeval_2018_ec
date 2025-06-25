@@ -41,5 +41,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://FaezeM.github.io/Semeval_2018_ec/manifests/manifest7.json",
     "label" : "trust"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://FaezeM.github.io/Semeval_2018_ec/manifests/manifest8.json",
+    "label" : "fear, pessimism"
   } ]
 }
