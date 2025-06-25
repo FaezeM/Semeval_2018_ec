@@ -49,5 +49,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://FaezeM.github.io/Semeval_2018_ec/manifests/manifest9.json",
     "label" : "sadness, surprise"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://FaezeM.github.io/Semeval_2018_ec/manifests/manifest10.json",
+    "label" : "sadness"
   } ]
 }
