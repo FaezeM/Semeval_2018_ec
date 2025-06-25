@@ -17,5 +17,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://FaezeM.github.io/Semeval_2018_ec/manifests/manifest1-2.json",
     "label" : "joy, love"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://FaezeM.github.io/Semeval_2018_ec/manifests/manifest2.json",
+    "label" : "disgust"
   } ]
 }
