@@ -29,5 +29,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://FaezeM.github.io/Semeval_2018_ec/manifests/manifest4.json",
     "label" : "anticipation, disgust, pessimism"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://FaezeM.github.io/Semeval_2018_ec/manifests/manifest5.json",
+    "label" : "anticipation, joy, optimism, trust"
   } ]
 }
