@@ -21,5 +21,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://FaezeM.github.io/Semeval_2018_ec/manifests/manifest2.json",
     "label" : "disgust"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://FaezeM.github.io/Semeval_2018_ec/manifests/manifest3.json",
+    "label" : "anger, sadness"
   } ]
 }
