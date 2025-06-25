@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 37,
+    "height" : 11
+  }, {
+    "width" : 74,
+    "height" : 22
+  }, {
+    "width" : 148,
+    "height" : 44
+  }, {
+    "width" : 296,
+    "height" : 88
+  }, {
+    "width" : 592,
+    "height" : 175
+  }, {
+    "width" : 1184,
+    "height" : 350
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1184,
+  "@id" : "https://FaezeM.github.io/Semeval_2018_ec/images/eight",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 350
+}
