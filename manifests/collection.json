@@ -1,0 +1,13 @@
+{
+  "id" : "https://FaezeM.github.io/Semeval_2018_ec/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in FaezeM/Semeval_2018_ec project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://FaezeM.github.io/Semeval_2018_ec/manifests/manifest.json",
+    "label" : "disgust, sadness"
+  } ]
+}
