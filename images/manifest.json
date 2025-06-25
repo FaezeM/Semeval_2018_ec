@@ -9,6 +9,330 @@
     },
     "items": [
         {
+            "id": "https://FaezeM.github.io/Semeval_2018_ec/images/three/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "three"
+                ]
+            },
+            "height": 342,
+            "width": 1190,
+            "items": [
+                {
+                    "id": "https://FaezeM.github.io/Semeval_2018_ec/images/three/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://FaezeM.github.io/Semeval_2018_ec/images/three/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://FaezeM.github.io/Semeval_2018_ec/images/three/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 38,
+                                                "height": 11
+                                            },
+                                            {
+                                                "width": 75,
+                                                "height": 22
+                                            },
+                                            {
+                                                "width": 149,
+                                                "height": 43
+                                            },
+                                            {
+                                                "width": 298,
+                                                "height": 86
+                                            },
+                                            {
+                                                "width": 595,
+                                                "height": 171
+                                            },
+                                            {
+                                                "width": 1190,
+                                                "height": 342
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1190,
+                                        "@id": "https://FaezeM.github.io/Semeval_2018_ec/images/three",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 342,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://FaezeM.github.io/Semeval_2018_ec/images/three/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://FaezeM.github.io/Semeval_2018_ec/images/five/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "five"
+                ]
+            },
+            "height": 198,
+            "width": 1188,
+            "items": [
+                {
+                    "id": "https://FaezeM.github.io/Semeval_2018_ec/images/five/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://FaezeM.github.io/Semeval_2018_ec/images/five/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://FaezeM.github.io/Semeval_2018_ec/images/five/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 38,
+                                                "height": 7
+                                            },
+                                            {
+                                                "width": 75,
+                                                "height": 13
+                                            },
+                                            {
+                                                "width": 149,
+                                                "height": 25
+                                            },
+                                            {
+                                                "width": 297,
+                                                "height": 50
+                                            },
+                                            {
+                                                "width": 594,
+                                                "height": 99
+                                            },
+                                            {
+                                                "width": 1188,
+                                                "height": 198
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1188,
+                                        "@id": "https://FaezeM.github.io/Semeval_2018_ec/images/five",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 198,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://FaezeM.github.io/Semeval_2018_ec/images/five/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://FaezeM.github.io/Semeval_2018_ec/images/two/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "two"
+                ]
+            },
+            "height": 324,
+            "width": 1186,
+            "items": [
+                {
+                    "id": "https://FaezeM.github.io/Semeval_2018_ec/images/two/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://FaezeM.github.io/Semeval_2018_ec/images/two/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://FaezeM.github.io/Semeval_2018_ec/images/two/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 38,
+                                                "height": 11
+                                            },
+                                            {
+                                                "width": 75,
+                                                "height": 21
+                                            },
+                                            {
+                                                "width": 149,
+                                                "height": 41
+                                            },
+                                            {
+                                                "width": 297,
+                                                "height": 81
+                                            },
+                                            {
+                                                "width": 593,
+                                                "height": 162
+                                            },
+                                            {
+                                                "width": 1186,
+                                                "height": 324
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1186,
+                                        "@id": "https://FaezeM.github.io/Semeval_2018_ec/images/two",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 324,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://FaezeM.github.io/Semeval_2018_ec/images/two/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://FaezeM.github.io/Semeval_2018_ec/images/four/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "four"
+                ]
+            },
+            "height": 302,
+            "width": 1190,
+            "items": [
+                {
+                    "id": "https://FaezeM.github.io/Semeval_2018_ec/images/four/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://FaezeM.github.io/Semeval_2018_ec/images/four/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://FaezeM.github.io/Semeval_2018_ec/images/four/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 38,
+                                                "height": 10
+                                            },
+                                            {
+                                                "width": 75,
+                                                "height": 19
+                                            },
+                                            {
+                                                "width": 149,
+                                                "height": 38
+                                            },
+                                            {
+                                                "width": 298,
+                                                "height": 76
+                                            },
+                                            {
+                                                "width": 595,
+                                                "height": 151
+                                            },
+                                            {
+                                                "width": 1190,
+                                                "height": 302
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1190,
+                                        "@id": "https://FaezeM.github.io/Semeval_2018_ec/images/four",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 302,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://FaezeM.github.io/Semeval_2018_ec/images/four/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://FaezeM.github.io/Semeval_2018_ec/images/one/canvas/",
             "type": "Canvas",
             "label": {
