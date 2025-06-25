@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://FaezeM.github.io/Semeval_2018_ec/manifests/manifest.json",
     "label" : "disgust, sadness"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://FaezeM.github.io/Semeval_2018_ec/manifests/manifest1.json",
+    "label" : "disgust, sadness"
   } ]
 }
