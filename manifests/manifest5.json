@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://FaezeM.github.io/Semeval_2018_ec/manifests/manifest5.json",
+  "@type" : "sc:Manifest",
+  "label" : "anticipation, joy, optimism, trust",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://1c99f75c-dce7-49ca-88eb-bd727a99e8e8",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://c6e3b206-45e7-452a-acdc-4de32f8873f6",
+      "@type" : "sc:Canvas",
+      "label" : "five",
+      "height" : 198,
+      "width" : 1188,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://49f62320-d7a7-4837-adfb-196f915b60d1",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://faezem.github.io/Semeval_2018_ec/images/five/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://faezem.github.io/Semeval_2018_ec/images/five",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 198,
+          "width" : 1188
+        },
+        "on" : "http://c6e3b206-45e7-452a-acdc-4de32f8873f6"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
