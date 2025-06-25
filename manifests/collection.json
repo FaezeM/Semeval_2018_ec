@@ -33,5 +33,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://FaezeM.github.io/Semeval_2018_ec/manifests/manifest5.json",
     "label" : "anticipation, joy, optimism, trust"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://FaezeM.github.io/Semeval_2018_ec/manifests/manifest6.json",
+    "label" : "love, trust"
   } ]
 }
